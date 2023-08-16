@@ -1,14 +1,14 @@
-## Infinite-Framework
-The 'Infinite Framework' project has in goal to provide a fully functional FiveM roleplay server with advanced and highly developed features.
+## Neon-Framework
+The 'Neon Framework' project has in goal to provide a fully functional FiveM roleplay server with advanced and highly developed features.
 
 All development is done by me (@HollaYalla). No development will be rushed, making sure it is done thoroughly. I expect to regularly push updates introducing new features, bug fixes and balancing changes.
 
-For more information, join the official [Infinite-Framework Discord Server](https://discord.gg/Y29KYpgav4).
+For more information, join the official [Neon-Framework Discord Server](https://discord.gg/Y29KYpgav4).
 
 ## Issues
 It is requested that you report any issues you may encounter with the OP Framework in the "Issues" tab in this GitHub repository.
 
-Issues related to assets, should at this time be reported in [this](https://github.com/HollaYalla/Infinite-Framework-Issue-Tracker) GitHub repository.
+Issues related to assets, should at this time be reported in [this](https://github.com/HollaYalla/Neon-Framework-Issue-Tracker) GitHub repository.
 
 ## Rules
 To make sure we're all on the same page about what this issue tracker is meant for, please read through and follow the rules below.
