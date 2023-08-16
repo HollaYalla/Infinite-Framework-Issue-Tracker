@@ -80,7 +80,8 @@ body:
       description: What server/community did this issue occur in?
       multiple: true
       options:
-      - Infinite Roleplay International (https://cfx.re/join/bb8d3l)
+      - Infinite Framework Test Server
+      - Infinite Roleplay International
     validations:
       required: true          
 
