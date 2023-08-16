@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Legacy Assets Issue Tracker
+    url: https://github.com/HollaYalla/Infinite-Framework-Issue-Tracker
+    about: If your Issue/Suggestion relates to assets (Such as clothing, cars, etc), please raise it here.
+  - name: Infinite Framework Discord
+    url: https://discord.gg/Y29KYpgav4
+    about: Join us on discord to discuss issues, ideas, etc.
